@@ -1,7 +1,7 @@
 # WarmFan
 # HTML & CSS Table Fan
 
-👉 [Preview](https://mhttarunno.github.io/Feather-Dash-Fun/) 
+👉 [Preview](https://mhttarunno.github.io/WarmFan/) 
 
 A fun and creative project that uses only HTML and CSS to visually represent a table fan. This project features basic shapes, styling, and smooth CSS animations to simulate a rotating fan — all without JavaScript or images.
 
