@@ -1,5 +1,4 @@
 # WarmFan
-# HTML & CSS Table Fan
 
 👉 [Preview](https://mhttarunno.github.io/WarmFan/) 
 
